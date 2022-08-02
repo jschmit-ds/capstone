@@ -9,6 +9,9 @@ __pycache__/
 #files
 .csv
 
+# osmnx cache folder
+cache/
+
 # Distribution / packaging
 .Python
 build/
