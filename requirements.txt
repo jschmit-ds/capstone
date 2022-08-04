@@ -11,5 +11,4 @@ osmnx
 contextily
 fiona
 folium
-
-tensor
+pyarrow
