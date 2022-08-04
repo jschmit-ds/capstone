@@ -9,6 +9,7 @@ __pycache__/
 #files
 .csv
 
+
 # OMSNX cache data
 cache/
 
