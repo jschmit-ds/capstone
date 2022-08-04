@@ -9,8 +9,12 @@ __pycache__/
 #files
 .csv
 
-# osmnx cache folder
+
+# OMSNX cache data
 cache/
+
+# aws credentials
+aws_secrets.py
 
 # Distribution / packaging
 .Python
