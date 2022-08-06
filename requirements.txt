@@ -11,4 +11,3 @@ osmnx
 contextily
 fiona
 folium
-pyarrow
