@@ -1,0 +1,13 @@
+pandas
+numpy
+sklearn
+pytorch
+matplotlib
+altair
+tobler=0.9
+h3
+geopandas
+osmnx
+contextily
+fiona
+folium
