@@ -4,6 +4,7 @@ sklearn
 pytorch
 matplotlib
 altair
+seaborn
 tobler=0.9
 h3
 geopandas
