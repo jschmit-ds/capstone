@@ -9,6 +9,10 @@
 - Eric Moreno
 - Joseph Schmit
 
+## Languages and Tools
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"></a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <img src="https://altair-viz.github.io/_static/altair-logo-light.png" alt="Altair" width="40" height="40"/> <img src="https://matplotlib.org/3.1.0/_static/logo2.png" alt="Matplotlib"  height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="40"/> </a> <img src="https://i.pcmag.com/imagery/reviews/058odIpsFui7XT7sYt0XBFr-9..v1569472704.jpg" alt="S3" height="40"/> </a> <img src="https://miro.medium.com/max/300/1*jbYRQa6__lU3EAzdkA_fJw.png" alt="SageMaker" width="40" height="40"/> </a> <img src="https://auto.gluon.ai/stable/_static/AutogluonLogo.png" alt="AutoGluon" height="40"/> </a>
+</p>
+
 
 
 ## TOC
