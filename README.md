@@ -1,8 +1,9 @@
 # Predicting Road Accident Risk Using Machine Learning
 ## University of Michigan | Master of Applied Data Science | Capstone Project
 
-![hexagon collision](/assets/hexagon_collisions.png)
-
+<p align="center" width="100%">
+    <img width="33%" src="/assets/hexagon_collisions.png"> 
+</p>
 
 ## Authors
 - Eric Moreno
