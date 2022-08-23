@@ -1,7 +1,7 @@
 # Predicting Road Accident Risk Using Machine Learning
 ## University of Michigan | Master of Applied Data Science | Capstone Project
 
-![Alt text](/asseets/hexagon_collisions.png)
+![Alt text](https://github.com/jschmit-ds/capstone/tree/main/assets/hexagon_collisions.png)
 
 
 ## Authors
