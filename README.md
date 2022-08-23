@@ -41,33 +41,36 @@ The outputs of each model will then be used to describe characteristics of locat
 - [Requirements](/requirements.txt)
 
 
-## Preprocessing Pipeline
-- Download LA county shape file and translate to hexagon grid over the county.
-- Download edges and nodes (streets and intersections) from open streets.
-    - Clean data
-    - Summarize and save as geocoded data
-- Download TIMS collision data
-    - Clean and attach hexagon ids using latitude and longitude
-- Download LA County city shape file
-    - Clean and label hexagon ids
-- Download amenities (restaurants, schools, bars and colleges). 
-    - Clean and summarize by hexagon id.
-- Join all location description non-time competent information to hexagons.
-- Create collision history features
-- Negative sample creation
-- NOAA weather data
-    - Clean and attach using date and time
-- Create Tran/Test/Validation split
-- Final data join to create pre-feature engineered model dataset
-    - Perform feature engineering
-- Creation of dashboard output out of time data.
+## [Preprocessing Pipeline](/01.Data_Etl)
+- Steps 01 - 05
+    - download and pre-process data files
+    - hexagons for LA County
+    - LA County city shape file
+    - TIMS accident data
+    - road and intersection data
+    - business location data
+- Steps 11 - 14
+    - further process data
+    - create negative samples
+    - create collision history
+- Steps 20 - 23
+    - Train/Test/Validate splits
+    - join the data
+    - output final modeling file
+    - output 2022 out of time data for our dahsbaord
+ - Steps 30 - 31
+    - pre-modeling analysis
+    - [pre-modeling univariates](/01.Data_Etl/pre-modeling_univariates.pdf)
 
 ![alt text](https://github.com/emoreno-hub/capstone/blob/main/assets/Data%20Model.jpg)
 
-## Machine Learning
+## Machine Learning -
  - [GLMnet](/03.Model/GLMnet.ipynb)
  - [GBM](/03.Model/GBM.ipynb)
  - [AutoGluon](/03.Model/AutoGluon_Training.ipynb)
 
+## Analysis
+ - AUC calculations
+ - [post-model model approach univeriates](/03.Analysis/validation_univariates.pdf)
 
 ## FAQ
