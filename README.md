@@ -2,7 +2,7 @@
 ## University of Michigan | Master of Applied Data Science | Capstone Project
 
 <p align="center" width="100%">
-    <img width="%05" src="/assets/all_collisions.png"> 
+    <img width="450" src="/assets/all_collisions.png "> 
 </p>
 
 ## Authors
@@ -25,7 +25,7 @@ The objective is to combine location and time characteristics to compare the rel
 The outputs of each model will then be used to describe characteristics of locations that predict collisions to help the end user understand what makes a location more prone to risk.  We also want to provide a dashboard where the user can view a map of LA County where risky areas are highlighted based on the day and time.
 
 <p align="center" width="100%">
-    <img width="50%" src="/assets/hexagon_collisions.png"> 
+    <img width="450" src="/assets/hexagon_collisions.png"> 
 </p>
 
 ## Repository Organization
