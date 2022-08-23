@@ -1,7 +1,7 @@
 # Predicting Road Accident Risk Using Machine Learning
 ## University of Michigan | Master of Applied Data Science | Capstone Project
 
-![Alt text](https://github.com/jschmit-ds/capstone/tree/main/assets/hexagon_collisions.png)
+![hexagon collision](/assets/hexagon_collisions.png)
 
 
 ## Authors
@@ -14,7 +14,6 @@
  - Getting started
  - Installation
  - Processing Pipeline
- - Data Pipeline
  - Contributions
 
 
@@ -73,10 +72,6 @@ The outputs of each model will then be used to describe characteristics of locat
 - Creation of dashboard output out of time data.
 
 ![alt text](https://github.com/emoreno-hub/capstone/blob/main/assets/Data%20Model.jpg)
-
-## Data Pipeline
-The diagram below illustrates the data pipeline we built for our project.
-![alt text](https://github.com/emoreno-hub/capstone/blob/main/assets/Data%20Pipeline.jpg)
 
 ## Machine Learning
  - GLMnet
