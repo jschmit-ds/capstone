@@ -71,6 +71,8 @@ The outputs of each model will then be used to describe characteristics of locat
     - Perform feature engineering
 - Creation of dashboard output out of time data.
 
+![alt text](https://github.com/emoreno-hub/capstone/blob/main/assets/Data%20Model.jpg)
+
 ## Machine Learning
  - GLMnet
  - GBM
