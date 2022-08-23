@@ -14,6 +14,7 @@
  - Getting started
  - Installation
  - Processing Pipeline
+ - Data Pipeline
  - Contributions
 
 
@@ -72,6 +73,10 @@ The outputs of each model will then be used to describe characteristics of locat
 - Creation of dashboard output out of time data.
 
 ![alt text](https://github.com/emoreno-hub/capstone/blob/main/assets/Data%20Model.jpg)
+
+## Data Pipeline
+The diagram below illustrates the data pipeline we built for our project.
+![alt text](https://github.com/emoreno-hub/capstone/blob/main/assets/Data%20Pipeline.jpg)
 
 ## Machine Learning
  - GLMnet
