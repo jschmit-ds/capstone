@@ -31,8 +31,7 @@ The outputs of each model will then be used to describe characteristics of locat
 - Installation
 ```git clone https://github.com/jschmit-ds/capstone.git```
 
-- Libraries
-[Requirements](/requirements.txt)
+- [Requirements](/requirements.txt)
 
 
 ## Preprocessing Pipeline
