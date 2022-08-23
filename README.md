@@ -71,6 +71,16 @@ The outputs of each model will then be used to describe characteristics of locat
 
 ## Analysis
  - AUC calculations
+ 
+ <p align="left" width="100%">
+    <img width="350" src="/assets/out_of_time_auc.png "> 
+</p>
+ 
  - [post-model model approach univeriates](/03.Analysis/validation_univariates.pdf)
+
+<p align="left" width="100%">
+    <img width="350" src="/assets/univariate.png "> 
+</p>
+
 
 ## FAQ
