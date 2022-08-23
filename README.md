@@ -76,7 +76,7 @@ The outputs of each model will then be used to describe characteristics of locat
     <img width="350" src="/assets/out_of_time_auc.png "> 
 </p>
  
- - [pdf post-model modeling univeriates](/03.Analysis/validation_univariates.pdf)
+ - [pdf of post-model modeling univeriates](/03.Analysis/validation_univariates.pdf)
 
 <p align="left" width="100%">
     <img width="350" src="/assets/univariate.png "> 
