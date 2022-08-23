@@ -28,6 +28,9 @@ The outputs of each model will then be used to describe characteristics of locat
 - 04.Analysis - Post-modeling analysis
 
 ## Getting Started
+- Installation
+```git clone https://github.com/jschmit-ds/capstone.git```
+
 - Libraries
     - geopandas
     - pandas
@@ -47,8 +50,7 @@ The outputs of each model will then be used to describe characteristics of locat
     - matplotlib
 
 
-## Installation
-```git clone https://github.com/jschmit-ds/capstone.git```
+
 
 ## Preprocessing Pipeline
 - Download LA county shape file and translate to hexagon grid over the county.
