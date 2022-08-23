@@ -64,10 +64,10 @@ The outputs of each model will then be used to describe characteristics of locat
 
 ![alt text](https://github.com/emoreno-hub/capstone/blob/main/assets/Data%20Model.jpg)
 
-## Machine Learning -
- - [GLMnet](/03.Model/GLMnet.ipynb)
- - [GBM](/03.Model/GBM.ipynb)
- - [AutoGluon](/03.Model/AutoGluon_Training.ipynb)
+## [Machine Learning](/02.Model)
+ - [GLMnet](/02.Model/GLMnet.ipynb)
+ - [GBM](/02.Model/GBM.ipynb)
+ - [AutoGluon](/02.Model/AutoGluon_Training.ipynb)
 
 ## Analysis
  - AUC calculations
