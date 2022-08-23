@@ -60,7 +60,7 @@ The outputs of each model will then be used to describe characteristics of locat
     - output 2022 out of time data for our dahsbaord
  - Steps 30 - 31
     - pre-modeling analysis
-    - [pre-modeling univariates](/01.Data_Etl/pre-modeling_univariates.pdf)
+    - [pdf of pre-modeling univariates](/01.Data_Etl/pre-modeling_univariates.pdf)
 
 ![alt text](https://github.com/emoreno-hub/capstone/blob/main/assets/Data%20Model.jpg)
 
@@ -76,7 +76,7 @@ The outputs of each model will then be used to describe characteristics of locat
     <img width="350" src="/assets/out_of_time_auc.png "> 
 </p>
  
- - [post-model model approach univeriates](/03.Analysis/validation_univariates.pdf)
+ - [pdf post-model modeling univeriates](/03.Analysis/validation_univariates.pdf)
 
 <p align="left" width="100%">
     <img width="350" src="/assets/univariate.png "> 
