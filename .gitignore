@@ -8,7 +8,7 @@ __pycache__/
 
 #files
 .csv
-
+.zip
 
 # OMSNX cache data
 cache/
