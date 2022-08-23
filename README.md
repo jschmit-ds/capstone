@@ -30,9 +30,9 @@ The outputs of each model will then be used to describe characteristics of locat
 
 ## Repository Organization
 - 00.Concept - Notebooks exploring hexagons and joining data
-- 02.Data_Etl - Notebooks for data processing, joining and model data creation
-- 03.Model - Notebooks used to create models
-- 04.Analysis - Post-modeling analysis
+- 01.Data_Etl - Notebooks for data processing, joining and model data creation
+- 02.Model - Notebooks used to create models
+- 03.Analysis - Post-modeling analysis
 
 ## Getting Started
 - Installation
