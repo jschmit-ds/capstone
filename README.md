@@ -2,7 +2,7 @@
 ## University of Michigan | Master of Applied Data Science | Capstone Project
 
 <p align="center" width="100%">
-    <img width="33%" src="/assets/hexagon_collisions.png"> 
+    <img width="50%" src="/assets/hexagon_collisions.png"> 
 </p>
 
 ## Authors
