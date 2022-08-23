@@ -32,24 +32,7 @@ The outputs of each model will then be used to describe characteristics of locat
 ```git clone https://github.com/jschmit-ds/capstone.git```
 
 - Libraries
-    - geopandas
-    - pandas
-    - libpysal
-    - tobler.util
-    - h3
-    - boto3
-    - awswrangler
-    - fiona
-    - seaborn
-    - altair
-    - osmnx
-    - catboost
-    - sklearn
-    - glmnet
-    - numpy
-    - matplotlib
-
-
+[Requirements](/requirements.txt)
 
 
 ## Preprocessing Pipeline
