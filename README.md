@@ -40,6 +40,14 @@ The outputs of each model will then be used to describe characteristics of locat
 
 - [Requirements](/requirements.txt)
 
+- There are 3 data files needed to run this process
+    - Crash data from TIMS
+    
+    - LA County shape files
+    
+    - NOAA weather data downloaded from [here](https://www.ncei.noaa.gov/access/past-weather/).
+        - Can be download from our repository as a [zip file](/X.Data/weather/LA_weather_data_updated)
+
 
 ## [Preprocessing Pipeline](/01.Data_Etl)
 - Steps 01 - 05
