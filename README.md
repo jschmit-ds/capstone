@@ -1,5 +1,9 @@
+<p align="left" width="100%">
+<img width="400" src="https://github.com/emoreno-hub/capstone/blob/main/assets/logo-header.png"> 
+    </p>
+    
 # Predicting Road Accident Risk Using Machine Learning
-## University of Michigan | Master of Applied Data Science | Capstone Project
+## Master of Applied Data Science Capstone
 
 <p align="center" width="100%">
     <img width="450" src="/assets/all_collisions.png "> 
