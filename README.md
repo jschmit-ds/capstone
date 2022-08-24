@@ -48,22 +48,22 @@ The outputs of each model will then be used to describe characteristics of locat
 
 - [Requirements](/requirements.txt)
     - To use:
-        - in a terminal navigate to the directory of the downloaded repository
-        - run this command ```pip install -r requirements.txt```
-        - it is good practice to create a new environmnet prior to runing this code
+        - In a terminal, navigate to the directory of the downloaded repository.
+        - Run this command ```pip install -r requirements.txt```
+        - It is good practice to create a new environmnet prior to runing this code.
 
 - There are 3 data files needed to run this process
-    - Crash data from TIMS years 2014 through 2021. A link to the website is provided [here](https://tims.berkeley.edu/)
-        - Can be downloaded from our repository as a [zip file](/X.Data/raw_data/TIMS_raw_crashes_downloads.zip)
+    - Crash data from TIMS years 2014 through 2021. A link to the website is provided [here](https://tims.berkeley.edu/).
+        - Can be downloaded from our repository as a [zip file](/X.Data/raw_data/TIMS_raw_crashes_downloads.zip).
         - Transportation Injury Mapping System (TIMS), 
         Safe Transportation Research and Education Center, 
         University of California, Berkeley. 2022
     
     - LA County shape files
-        - Can be downloaded from our repository as a [zip file](/X.Data/raw_data/la_county_website_data.zip)
+        - Can be downloaded from our repository as a [zip file](/X.Data/raw_data/la_county_website_data.zip).
     
     - NOAA weather data downloaded from [here](https://www.ncei.noaa.gov/access/past-weather/).
-        - Can be download from our repository as a [zip file](/X.Data/weather/LA_weather_data_updated.csv.zip)
+        - Can be download from our repository as a [zip file](/X.Data/weather/LA_weather_data_updated.csv.zip).
     
     - All other data is created and downloaded through the notebooks.
 
