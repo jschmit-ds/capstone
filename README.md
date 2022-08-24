@@ -51,6 +51,9 @@ The outputs of each model will then be used to describe characteristics of locat
 - There are 3 data files needed to run this process
     - Crash data from TIMS years 2014 through 2021. A link to the website is provided [here](https://tims.berkeley.edu/)
         - Can be downloaded from our repository as a [zip file](/X.Data/raw_data/TIMS_raw_crashes_downloads.zip)
+        - Transportation Injury Mapping System (TIMS), 
+        Safe Transportation Research and Education Center, 
+        University of California, Berkeley. 2022
     
     - LA County shape files
         - Can be downloaded from our repository as a [zip file](/X.Data/raw_data/la_county_website_data.zip)
