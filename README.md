@@ -47,6 +47,10 @@ The outputs of each model will then be used to describe characteristics of locat
 ```git clone https://github.com/jschmit-ds/capstone.git```
 
 - [Requirements](/requirements.txt)
+    - To use:
+        - in a terminal navigate to the directory of the downloaded repository
+        - run this command ```pip install -r requirements.txt```
+        - it is good practice to create a new environmnet prior to runing this code
 
 - There are 3 data files needed to run this process
     - Crash data from TIMS years 2014 through 2021. A link to the website is provided [here](https://tims.berkeley.edu/)
